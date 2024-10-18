@@ -1,0 +1,21 @@
+@mixin flex {
+    display: flex;
+    align-items: center;
+}
+
+@mixin main_btn{
+    background-color: $primary-bg-color;
+    color: black;
+    border: none;
+    border-radius: 1.5rem;
+    padding: 0.5rem 1.5rem;
+}
+
+@mixin main_heading{
+    font-size: 3rem;
+    font-weight: 600;
+}
+@mixin main_sub_heading{
+    font-size: 2rem;
+    font-weight: 600;
+}

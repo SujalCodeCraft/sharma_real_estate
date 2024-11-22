@@ -849,6 +849,171 @@ body ul {
   .home_main_header .nav_right_main {
     display: none;
   }
+  .trust_comp_sec .main_row_of_img {
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  .trust_comp_sec .main_row_of_img img {
+    max-width: 50%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .explore_new_hood .explore_new_hood_left {
+    padding: 0.5rem;
+  }
+  .testimonial__main__section .testimonial__main__heading {
+    flex-wrap: wrap;
+  }
+  .our_agent_section .main_card_of_agent {
+    flex-wrap: wrap;
+  }
+  .home_main_header .home_main_nav .logo_main img {
+    transform: scale(1);
+    max-width: 67px;
+  }
+  .hero_section {
+    padding: 1rem;
+    background-position: top;
+  }
+  .hero_section .hero_sec_left .hero_sec_main_heading {
+    text-align: center;
+    font-size: 2rem;
+    padding-right: 0;
+  }
+  .hero_section .hero_sec_left .hero_sec_main_p {
+    font-size: 14px;
+    text-align: center;
+  }
+  .hero_section .hero_sec_right {
+    justify-content: center;
+    padding: 0;
+  }
+  .hero_section .hero_sec_right .form_main {
+    max-width: 95vw;
+    font-size: 15px;
+  }
+  .hero_section .hero_sec_right .form_main .btn_box .btn {
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+  }
+  .we_are_partner .we_are_left h2 {
+    font-size: 2rem;
+  }
+  .we_are_partner .we_are_left p {
+    font-size: 1rem;
+    padding: 0.5rem 0;
+  }
+  .right_pic_box {
+    display: none;
+  }
+  .Our_featured_exclusives {
+    padding: 2rem 0;
+  }
+  .Our_featured_exclusives .our_feature_main_box .our_feature_main_head {
+    padding-left: 0;
+    font-size: 2rem;
+    text-align: center;
+  }
+  .Our_featured_exclusives .our_feature_main_box .our_features_main_tabs_box {
+    padding: 0.5rem 0;
+  }
+  .Our_featured_exclusives .our_feature_main_box .our_features_main_tabs_box .our_feature_main_tabs_ul li {
+    padding: 0.5rem 0.2rem;
+    font-size: 15px;
+  }
+  .Our_featured_exclusives .cards__main__row .main__left__icon {
+    display: none;
+  }
+  .Our_featured_exclusives .cards__main__row .main_featres_card img {
+    max-width: 300px;
+  }
+  .Our_featured_exclusives .cards__main__row .main_featres_card {
+    margin: 1rem 0;
+  }
+  .Our_featured_exclusives .cards__main__row .main_featres_card .card__main__text__box .card__main__text__box__ul_1 > :first-child {
+    font-size: 1rem;
+  }
+  .Our_featured_exclusives .cards__main__row .main_featres_card .card__main__text__box .card__main__text__box__ul_1 .card__main__text__box__ul_sub_1 > :last-child {
+    font-size: 14px;
+  }
+  .main_sliding_icon {
+    display: none;
+  }
+  .what_we_are_provd {
+    padding: 0;
+    text-align: center;
+  }
+  .what_we_are_provd .what_we_are_provd_main_row .providing_main_card_container .providing_main_card {
+    text-align: start;
+    padding: 0.5rem;
+  }
+  .what_we_are_provd .what_we_are_provd_main_row .providing_main_card_container .providing_main_card .providing_main_card_ul li {
+    padding: 0.4rem 0;
+  }
+  .explore_new_hood .explore_new_hood_left .explore_new_hood_left_head {
+    font-size: 2rem;
+  }
+  .our_agent_section .our_agent_main_heading .agent_main_heading {
+    text-align: center;
+    font-size: 2rem;
+  }
+  .our_agent_section .main_card_of_agent .agent_img_box_1,
+  .our_agent_section .main_card_of_agent .agent_img_box_2,
+  .our_agent_section .main_card_of_agent .agent_img_box_3,
+  .our_agent_section .main_card_of_agent .agent_img_box_4 {
+    min-width: 18.4rem;
+    height: 18rem;
+  }
+  .testimonial__main__section .testimonial__main__heading > :first-child {
+    font-size: 1.5rem;
+    padding: 0;
+    text-align: center;
+  }
+  .testimonial__main__section .testimonial__main__heading .testimonial__sliding__btns {
+    display: none;
+  }
+  .testimonial__main__section .main__testimonial__card__row .review_card_main .review__card__header > :first-child > :nth-child(2) {
+    font-size: 10px;
+  }
+  .testimonial__main__section .main__testimonial__card__row .review_card_main .review__card__header > :first-child > :last-child i {
+    font-size: 10px;
+  }
+  .testimonial__main__section .main__testimonial__card__row .review_card_main .review__card__body {
+    padding: 0;
+  }
+  .testimonial__main__section .main__testimonial__card__row .review_card_main .review__card__body > :last-child {
+    font-size: 14px;
+  }
+  .whats__new__sec .whats_new_sec_head {
+    padding: 1rem 0;
+    flex-wrap: wrap;
+  }
+  .whats__new__sec .whats_new_sec_head > :first-child {
+    font-size: 1.8rem;
+  }
+  .whats__new__sec .whats_new_sec_head .btn {
+    padding: 0.5rem;
+    font-size: 14px;
+  }
+  .looking_for__ .looking__for__bt__main .looking__for__rightsidemain {
+    padding: 0.5rem;
+  }
+  .looking_for__ .looking__for__bt__main .looking__for__rightsidemain > :first-child {
+    font-size: 2rem;
+    text-align: center;
+    padding: 0;
+  }
+  .home__main__footer {
+    padding: 0;
+  }
+  .home__main__footer .home_footer_first_main_row > :first-child .footer_sub_main_column > :first-child {
+    padding: 0.5rem;
+  }
+  html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+  }
 }
 @media only screen and (min-width: 576px) {
   .mobile_bar_icon {
